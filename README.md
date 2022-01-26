@@ -1,3 +1,6 @@
+MOVED TO AMAZONTRACKER REPO
+
+
 # PriceFollow
 
 This project was created with create-react-app and firebase
